@@ -1,5 +1,5 @@
-### EX NO : 6
-### DATE  : 29.04.2022
+### EX NO: 6
+### DATE: 02.05.2022
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## Aim:
    To implement multi layer artificial neural network using back propagation algorithm.
